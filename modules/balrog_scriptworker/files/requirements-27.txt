@@ -10,7 +10,7 @@ certifi==2021.5.30
 cffi==1.14.6
 chardet==4.0.0
 click==8.0.1
-construct==2.9.45
+construct==2.10.67
 cryptography==3.4.7
 enum34==1.1.10
 functools32==3.2.3-2
