@@ -36,7 +36,7 @@ scriptworker==41.0.0
 simplejson==3.17.5
 six==1.16.0
 slugid==2.0.0
-tabulate==0.8.2
+tabulate==0.8.9
 taskcluster==44.2.2
 urllib3==1.26.6
 virtualenv==20.7.2
