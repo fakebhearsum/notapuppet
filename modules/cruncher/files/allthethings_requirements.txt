@@ -8,7 +8,7 @@ Twisted==10.1.0  # pyup: ignore
 argparse==1.4.0
 cffi==1.14.6
 cryptography==3.4.8
-pyOpenSSL==18.0.0
+pyOpenSSL==20.0.1
 pyasn1==0.4.8
 pycparser==2.20
 pycrypto==2.6.1
