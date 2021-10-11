@@ -11,7 +11,7 @@ idna==3.2
 jsonschema==4.1.0
 mohawk==1.1.0
 multidict==5.2.0
-mysql-connector-python==8.0.11
+mysql-connector-python==8.0.26
 py==1.5.3
 pyparsing==2.4.7
 python-dateutil==2.8.2
