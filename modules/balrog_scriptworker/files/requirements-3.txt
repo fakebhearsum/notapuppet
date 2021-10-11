@@ -18,7 +18,7 @@ json-e==4.4.1
 jsonschema==4.1.0
 mohawk==1.1.0
 multidict==5.2.0
-packaging==17.1
+packaging==21.0
 pexpect==4.8.0
 pip-api==0.0.1
 ptyprocess==0.7.0
