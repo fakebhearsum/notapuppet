@@ -17,7 +17,7 @@ idna_ssl==1.1.0
 json-e==4.4.1
 jsonschema==4.1.0
 mohawk==1.1.0
-multidict==4.3.1
+multidict==5.2.0
 packaging==17.1
 pexpect==4.6.0
 pip-api==0.0.1
