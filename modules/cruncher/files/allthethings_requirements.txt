@@ -14,7 +14,7 @@ pycparser==2.21
 pycrypto==2.6.1
 simplejson==3.17.6
 wsgiref==0.1.2
-zope.interface==4.5.0
+zope.interface==5.4.0
 incremental==17.5.0
 constantly==15.1.0
 automat==0.6.0
