@@ -1,9 +1,9 @@
 # python_version: 27
 MySQL-python==1.2.5
-SQLAlchemy==1.2.8
-pytz==2018.4
+SQLAlchemy==1.4.31
+pytz==2021.3
 # Pinning to avoid investigating if an update would break
 # https://bugzilla.mozilla.org/show_bug.cgi?id=1289822#c7
-requests==2.18.4
-simplejson==3.15.0
+requests==2.27.1
+simplejson==3.17.6
 wsgiref==0.1.2
