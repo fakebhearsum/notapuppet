@@ -13,7 +13,7 @@ mohawk==1.1.0
 multidict==6.0.2
 mysql-connector-python==8.0.11
 py==1.5.3
-pyparsing==2.2.0
+pyparsing==3.0.8
 python-dateutil==2.8.2
 PyYAML==6.0
 Represent==1.5.1
