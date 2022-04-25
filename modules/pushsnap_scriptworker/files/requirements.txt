@@ -26,7 +26,7 @@ pyelftools==0.28
 pymacaroons==0.13.0
 pysha3==1.0.2
 python-dateutil==2.8.2
-python-debian==0.1.32
+python-debian==0.1.43
 python-gnupg==0.4.8
 pyxdg==0.26
 requests==2.27.1
