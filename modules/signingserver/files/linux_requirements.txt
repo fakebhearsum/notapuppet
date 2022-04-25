@@ -18,7 +18,7 @@ ipaddress==1.0.23
 asn1crypto==1.5.1
 cffi==1.15.0
 cryptography==36.0.2
-macholib==1.9
+macholib==1.16
 altgraph==0.15
 idna==3.3
 pycparser==2.21
