@@ -8,7 +8,7 @@ async_timeout==4.0.2
 attrs==21.4.0
 beetmoverscript==7.3.0  # puppet: nodownload
 boto3==1.22.9
-botocore==1.10.29
+botocore==1.25.9
 certifi==2021.10.8
 chardet==4.0.0
 click==6.7
