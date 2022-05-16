@@ -27,5 +27,5 @@ slugid==2.0.0
 taskcluster==44.13.6
 urllib3==1.26.9
 virtualenv==20.14.1
-yarl==1.2.4
+yarl==1.7.2
 transparencyscript==0.0.4  # puppet: nodownload
