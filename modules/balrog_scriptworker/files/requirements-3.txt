@@ -6,7 +6,7 @@ async_timeout==4.0.2
 attrs==21.4.0
 certifi==2021.10.8
 chardet==4.0.0
-click==6.7
+click==8.1.3
 defusedxml==0.7.1
 dephash==1.0.0
 dictdiffer==0.9.0
