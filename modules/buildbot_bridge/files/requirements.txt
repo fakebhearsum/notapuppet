@@ -2,7 +2,7 @@
 requests==2.27.1
 arrow==1.2.2
 taskcluster==44.13.7
-sqlalchemy==1.2.8
+sqlalchemy==1.4.36
 kombu==4.2.1
 redo==1.6
 mysql-python==1.2.5
