@@ -19,7 +19,7 @@ incremental==17.5.0
 constantly==15.1.0
 automat==20.2.0
 attrs==21.4.0
-hyperlink==18.0.0
+hyperlink==21.0.0
 idna==3.3
 enum34==1.1.10
 ipaddress==1.0.23
