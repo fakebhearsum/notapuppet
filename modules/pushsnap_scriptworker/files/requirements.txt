@@ -28,7 +28,7 @@ pysha3==1.0.2
 python-dateutil==2.8.2
 python-debian==0.1.43
 python-gnupg==0.4.9
-pyxdg==0.26
+pyxdg==0.27
 requests==2.27.1
 requests-toolbelt==0.8.0
 requests-unixsocket==0.1.5
