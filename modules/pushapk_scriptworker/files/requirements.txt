@@ -60,7 +60,7 @@ simplegeneric==0.8.1
 slugid==2.0.0
 taskcluster==44.15.5
 traitlets==5.2.2.post1
-uritemplate==3.0.0
+uritemplate==4.1.1
 urllib3==1.26.9
 virtualenv==20.14.1
 voluptuous==0.11.1
