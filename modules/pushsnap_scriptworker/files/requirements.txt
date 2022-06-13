@@ -22,7 +22,7 @@ pexpect==4.8.0
 progressbar33==2.4
 ptyprocess==0.7.0
 pycparser==2.21
-pyelftools==0.24
+pyelftools==0.28
 pymacaroons==0.13.0
 pysha3==1.0.2
 python-dateutil==2.8.2
