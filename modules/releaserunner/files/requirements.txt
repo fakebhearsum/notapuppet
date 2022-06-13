@@ -45,7 +45,7 @@ slugid==2.0.0
 sqlalchemy-migrate==0.13.0
 # Held at this ancient version because we need encrypted enviroment variable support.
 taskcluster==44.16.1  # pyup: noupdate
-toposort==1.5
+toposort==1.7
 urllib3==1.26.9
 wsgiref==0.1.2
 zope.interface==5.4.0
