@@ -64,6 +64,6 @@ uritemplate==4.1.1
 urllib3==1.26.12
 virtualenv==20.16.4
 voluptuous==0.13.1
-wcwidth==0.1.7
+wcwidth==0.2.5
 yarl==1.8.1
 pushapkscript==0.7.0  # puppet: nodownload
