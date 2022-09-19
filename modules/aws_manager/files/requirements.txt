@@ -50,4 +50,4 @@ urllib3==1.26.12
 chardet==5.0.0
 certifi==2022.9.14
 ipaddress==1.0.23
-enum34==1.1.6
+enum34==1.1.10
