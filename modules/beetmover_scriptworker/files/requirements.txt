@@ -36,7 +36,7 @@ six==1.16.0
 slugid==2.0.0
 taskcluster==46.1.1
 toml==0.10.2
-towncrier==18.5.0
+towncrier==22.12.0
 urllib3==1.26.13
 virtualenv==20.17.1
 yarl==1.8.2
