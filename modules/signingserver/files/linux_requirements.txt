@@ -7,7 +7,7 @@ greenlet==0.4.13
 redis==2.10.6
 # fluf.lock 3.0+ requires python 3
 flufl.lock==2.4.1  # pyup: <3.0
-pexpect==4.5.0
+pexpect==4.8.0
 # widevine: osx cant build cryptography and doesnt need these!
 ## install six and setuptools before cryptography
 setuptools==39.2.0
