@@ -44,7 +44,7 @@ pyasn1==0.4.8
 idna==3.4
 asn1crypto==1.5.1
 bcrypt==4.0.1
-cffi==1.11.5
+cffi==1.15.1
 pynacl==1.2.1
 urllib3==1.26.14
 chardet==5.1.0
