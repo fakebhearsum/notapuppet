@@ -3,7 +3,7 @@ requests==2.28.2
 arrow==1.2.3
 taskcluster==48.3.0
 sqlalchemy==2.0.8
-kombu==4.2.1
+kombu==5.2.4
 redo==2.0.4
 mysql-python==1.2.5
 amqp==2.3.2
