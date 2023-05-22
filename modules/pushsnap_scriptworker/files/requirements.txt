@@ -6,7 +6,7 @@ arrow==1.2.3
 async_timeout==4.0.2
 attrs==23.1.0
 certifi==2023.5.7
-cffi==1.11.5
+cffi==1.15.1
 chardet==5.1.0
 click==6.7
 defusedxml==0.7.1
