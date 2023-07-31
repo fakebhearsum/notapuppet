@@ -3,7 +3,7 @@ PyYAML==6.0.1
 aiohttp==3.8.5
 arrow==1.2.3
 async_timeout==4.0.2
-bouncerscript==2.0.0  # puppet: nodownload
+bouncerscript==3.6.2  # puppet: nodownload
 attrs==23.1.0
 certifi==2023.7.22
 chardet==5.1.0
