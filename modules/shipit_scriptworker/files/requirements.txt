@@ -27,6 +27,6 @@ six==1.16.0
 slugid==2.0.0
 taskcluster==54.4.2
 urllib3==2.0.4
-virtualenv==16.0.0
+virtualenv==20.24.3
 yarl==1.2.4
 shipitscript==1.0.0  # puppet: nodownload
