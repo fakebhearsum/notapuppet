@@ -62,7 +62,7 @@ taskcluster==54.4.2
 traitlets==4.3.2
 uritemplate==3.0.0
 urllib3==2.0.4
-virtualenv==16.0.0
+virtualenv==20.24.3
 voluptuous==0.11.1
 wcwidth==0.1.7
 yarl==1.2.4
