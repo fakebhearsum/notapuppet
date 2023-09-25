@@ -22,7 +22,7 @@ chardet==5.2.0
 chunkify==1.2
 cryptography==2.2.2
 decorator==4.2.1
-ecdsa==0.13
+ecdsa==0.18.0
 enum34==1.1.6
 futures==3.2.0
 idna==2.6
