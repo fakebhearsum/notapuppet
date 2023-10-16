@@ -35,7 +35,7 @@ pycrypto==2.6.1
 pynacl==1.2.1
 python-dateutil==2.8.2
 python-jose==3.3.0
-redo==1.6
+redo==2.0.4
 releasetasks==0.4.1  # puppet: nodownload
 requests==2.31.0
 requests-hawk==1.0.0
