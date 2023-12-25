@@ -10,7 +10,7 @@ chardet==5.2.0
 defusedxml==0.7.1
 dictdiffer==0.9.0
 ecdsa==0.18.0
-frozendict==1.2
+frozendict==2.3.10
 future==0.16.0
 idna==2.6
 idna_ssl==1.0.1
