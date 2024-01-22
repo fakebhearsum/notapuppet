@@ -10,7 +10,7 @@ click==6.7
 defusedxml==0.7.1
 dephash==1.0.0
 dictdiffer==0.9.0
-frozendict==1.2
+frozendict==2.4.0
 hashin==0.13.0
 idna==2.6
 idna_ssl==1.0.1
