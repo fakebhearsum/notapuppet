@@ -24,7 +24,7 @@ requests==2.31.0
 scriptworker==50.0.0
 six==1.16.0
 slugid==2.0.0
-taskcluster==3.0.1
+taskcluster==60.2.0
 urllib3==1.22
 virtualenv==16.0.0
 yarl==1.2.4
