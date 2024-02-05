@@ -21,7 +21,7 @@ automat==0.6.0
 attrs==23.2.0
 hyperlink==18.0.0
 idna==3.6
-enum34==1.1.6
+enum34==1.1.10
 ipaddress==1.0.23
 asn1crypto==1.5.1
 sqlalchemy==2.0.25
