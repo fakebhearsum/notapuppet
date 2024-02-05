@@ -19,7 +19,7 @@ pexpect==4.9.0
 ptyprocess==0.7.0
 python-dateutil==2.8.2
 python-gnupg==0.5.2
-redo==1.6
+redo==2.0.4
 requests==2.31.0
 scriptworker==50.0.0
 six==1.16.0
