@@ -9,7 +9,7 @@ balrogscript==3.1.0  # puppet: nodownload
 certifi==2024.2.2
 cffi==1.16.0
 chardet==5.2.0
-click==6.7
+click==8.1.7
 construct==2.9.45
 cryptography==42.0.2
 enum34==1.1.10
