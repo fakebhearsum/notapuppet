@@ -25,7 +25,7 @@ testrepository==0.0.20
 python-subunit==1.4.4
 extras==1.0.0
 testtools==2.7.1
-pbr==4.0.3
+pbr==6.0.0
 ordereddict==1.1
 schema==0.6.7
 redo==1.6
