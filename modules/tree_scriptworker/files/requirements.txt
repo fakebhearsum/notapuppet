@@ -26,5 +26,5 @@ slugid==2.0.0
 taskcluster==60.3.3
 treescript==0.4  # puppet: nodownload
 urllib3==2.2.0
-virtualenv==16.0.0
+virtualenv==20.25.0
 yarl==1.2.4
