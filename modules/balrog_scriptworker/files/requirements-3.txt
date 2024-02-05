@@ -32,4 +32,4 @@ slugid==2.0.0
 taskcluster==60.3.3
 urllib3==2.2.0
 virtualenv==20.25.0
-yarl==1.2.4
+yarl==1.9.4
