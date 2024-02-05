@@ -23,7 +23,7 @@ chunkify==1.2
 cryptography==42.0.2
 decorator==4.2.1
 ecdsa==0.18.0
-enum34==1.1.6
+enum34==1.1.10
 futures==3.4.0
 idna==3.6
 invoke==2.2.0
