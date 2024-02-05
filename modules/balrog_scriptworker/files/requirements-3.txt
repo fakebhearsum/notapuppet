@@ -30,6 +30,6 @@ scriptworker==50.0.0
 six==1.16.0
 slugid==2.0.0
 taskcluster==60.3.3
-urllib3==1.22
+urllib3==2.2.0
 virtualenv==16.0.0
 yarl==1.2.4
