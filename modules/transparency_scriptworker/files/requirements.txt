@@ -23,7 +23,7 @@ redo==1.6
 requests==2.31.0
 scriptworker==50.1.0
 six==1.16.0
-slugid==1.0.7
+slugid==2.0.0
 taskcluster==3.0.1
 urllib3==1.22
 virtualenv==16.0.0
