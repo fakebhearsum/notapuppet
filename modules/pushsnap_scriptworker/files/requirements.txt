@@ -35,7 +35,7 @@ requests-unixsocket==0.1.5
 scriptworker==50.1.0
 simplejson==3.15.0
 six==1.16.0
-slugid==1.0.7
+slugid==2.0.0
 tabulate==0.8.2
 taskcluster==3.0.1
 urllib3==1.22
