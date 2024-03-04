@@ -9,7 +9,7 @@ mysql-python==1.2.5
 amqp==2.3.2
 python-dateutil==2.9.0.post0
 pytz==2018.4
-six==1.11.0
+six==1.16.0
 wsgiref==0.1.2
 PyHawk-with-a-single-extra-commit==0.1.5
 anyjson==0.3.3
