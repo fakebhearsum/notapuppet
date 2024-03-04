@@ -61,7 +61,7 @@ slugid==2.0.0
 taskcluster==60.4.2
 traitlets==4.3.2
 uritemplate==3.0.0
-urllib3==1.22
+urllib3==2.2.1
 virtualenv==16.0.0
 voluptuous==0.11.1
 wcwidth==0.1.7
