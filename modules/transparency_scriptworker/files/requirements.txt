@@ -16,7 +16,7 @@ jsonschema==4.21.1
 mohawk==1.1.0
 multidict==6.0.5
 pexpect==4.9.0
-ptyprocess==0.5.2
+ptyprocess==0.7.0
 python-dateutil==2.7.3
 python-gnupg==0.4.2
 redo==1.6
