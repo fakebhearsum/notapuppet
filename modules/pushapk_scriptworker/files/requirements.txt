@@ -57,7 +57,7 @@ requests==2.31.0
 rsa==4.9
 scriptworker==50.2.0
 simplegeneric==0.8.1
-slugid==1.0.7
+slugid==2.0.0
 taskcluster==3.0.1
 traitlets==4.3.2
 uritemplate==3.0.0
