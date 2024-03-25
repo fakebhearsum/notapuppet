@@ -34,7 +34,7 @@ pyasn1==0.5.1
 pycrypto==2.6.1
 pynacl==1.2.1
 python-dateutil==2.9.0.post0
-python-jose==3.0.0
+python-jose==3.3.0
 redo==1.6
 releasetasks==0.4.1  # puppet: nodownload
 requests==2.18.4
