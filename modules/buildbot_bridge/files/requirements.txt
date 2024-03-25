@@ -15,7 +15,7 @@ PyHawk-with-a-single-extra-commit==0.1.5
 anyjson==0.3.3
 PyYAML==6.0.1
 jsonschema==4.21.1
-slugid==1.0.7
+slugid==2.0.0
 statsd==3.2.2
 backports.functools-lru-cache==1.5
 functools32==3.2.3-2
