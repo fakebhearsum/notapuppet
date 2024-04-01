@@ -13,7 +13,7 @@ pexpect==4.9.0
 setuptools==39.2.0
 six==1.16.0
 argparse==1.4.0
-enum34==1.1.6
+enum34==1.1.10
 ipaddress==1.0.23
 asn1crypto==1.5.1
 cffi==1.16.0
