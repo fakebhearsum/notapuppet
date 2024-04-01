@@ -10,7 +10,7 @@ PasteDeploy==1.5.2
 PasteScript==2.0.2
 Pygments==2.2.0
 Pylons==1.0.3
-amqp==2.3.2
+amqp==5.2.0
 buildapi==0.3.25  # puppet: nodownload
 buildbot==0.8.4-pre-moz2  # pyup: ignore, puppet: nodownload
 decorator==4.2.1
