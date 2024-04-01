@@ -10,7 +10,7 @@ cffi==1.16.0
 cryptography==42.0.5
 pyOpenSSL==18.0.0
 pyasn1==0.6.0
-pycparser==2.18
+pycparser==2.22
 pycrypto==2.6.1
 simplejson==3.19.2
 wsgiref==0.1.2
