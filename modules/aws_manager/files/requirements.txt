@@ -9,7 +9,7 @@ boto==2.49.0
 ecdsa==0.18.0
 invtool==4.4  # puppet: nodownload
 iso8601==2.1.0
-paramiko==2.4.1
+paramiko==3.4.0
 pycrypto==2.6.1
 repoze.lru==0.7
 requests==2.31.0
