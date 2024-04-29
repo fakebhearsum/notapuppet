@@ -39,7 +39,7 @@ s3transfer==0.10.1
 six==1.16.0
 invoke==2.2.0
 cryptography==42.0.5
-enum==0.4.6
+enum==0.4.7
 pyasn1==0.6.0
 idna==3.7
 asn1crypto==0.24.0
