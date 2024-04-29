@@ -40,7 +40,7 @@ Fabric==2.1.3
 IPy==1.1
 argparse==1.4.0
 boto==2.49.0
-iso8601==0.1.12
+iso8601==2.1.0
 repoze.lru==0.7
 ssh==1.8.0
 wsgiref==0.1.2
