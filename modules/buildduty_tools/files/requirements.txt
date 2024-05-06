@@ -7,7 +7,7 @@ Twisted==24.3.0
 argparse==1.4.0
 cffi==1.16.0
 cryptography==42.0.6
-pyOpenSSL==18.0.0
+pyOpenSSL==24.1.0
 pyasn1==0.6.0
 pycparser==2.22
 pycrypto==2.6.1
