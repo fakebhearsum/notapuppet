@@ -20,7 +20,7 @@ Cycler==0.10.0
 decorator==4.3.0
 defusedxml==0.7.1
 dictdiffer==0.9.0
-frozendict==1.2
+frozendict==2.4.4
 future==0.16.0
 google-api-python-client==1.6.7
 httplib2==0.11.3
