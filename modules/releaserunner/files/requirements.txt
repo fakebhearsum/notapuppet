@@ -39,7 +39,7 @@ redo==1.6
 releasetasks==0.4.1  # puppet: nodownload
 requests==2.31.0
 requests-hawk==1.0.0
-simplejson==3.15.0
+simplejson==3.19.2
 singledispatch==3.4.0.3
 slugid==2.0.0
 sqlalchemy-migrate==0.11.0
