@@ -2,7 +2,7 @@
 # install six before cryptography
 six==1.16.0
 Jinja2==3.1.4
-MarkupSafe==1.0
+MarkupSafe==2.1.5
 # doesn't work with our version of buildbot
 Twisted==10.1.0  # pyup: ignore
 argparse==1.4.0
