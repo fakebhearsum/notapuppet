@@ -19,7 +19,7 @@ asn1crypto==1.5.1
 cffi==1.16.0
 cryptography==42.0.7
 macholib==1.16.3
-altgraph==0.15
+altgraph==0.17.4
 idna==3.7
 pycparser==2.22
 wsgiref==0.1.2
