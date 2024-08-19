@@ -21,7 +21,7 @@ cffi==1.17.0
 chardet==5.2.0
 chunkify==1.2
 cryptography==43.0.0
-decorator==4.2.1
+decorator==5.1.1
 ecdsa==0.19.0
 enum34==1.1.10
 futures==3.4.0
