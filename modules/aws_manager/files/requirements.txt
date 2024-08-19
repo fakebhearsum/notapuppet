@@ -24,7 +24,7 @@ dnspython==2.6.1
 testrepository==0.0.21
 python-subunit==1.4.4
 extras==1.0.0
-testtools==2.3.0
+testtools==2.7.2
 pbr==4.0.3
 ordereddict==1.1
 schema==0.6.7
