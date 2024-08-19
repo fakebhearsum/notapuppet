@@ -35,7 +35,7 @@ docutils==0.21.2
 futures==3.4.0
 jmespath==1.0.1
 python-dateutil==2.9.0.post0
-s3transfer==0.1.13
+s3transfer==0.10.2
 six==1.16.0
 invoke==1.0.0
 cryptography==2.2.2
