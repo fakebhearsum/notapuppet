@@ -38,7 +38,7 @@ python-jose==3.3.0
 redo==3.0.0
 releasetasks==0.4.1  # puppet: nodownload
 requests==2.32.3
-requests-hawk==1.0.0
+requests-hawk==1.2.1
 simplejson==3.19.3
 singledispatch==3.4.0.3
 slugid==2.0.0
