@@ -17,7 +17,7 @@ pyparsing==2.2.0
 python-dateutil==2.9.0.post0
 PyYAML==6.0.2
 Represent==1.5.1
-requests==2.18.4
+requests==2.32.3
 six==1.11.0
 slugid==1.0.7
 SQLAlchemy==1.2.8
