@@ -36,7 +36,7 @@ futures==3.2.0
 jmespath==0.9.3
 python-dateutil==2.9.0.post0
 s3transfer==0.1.13
-six==1.11.0
+six==1.16.0
 invoke==1.0.0
 cryptography==2.2.2
 enum==0.4.6
