@@ -22,7 +22,7 @@ six==1.16.0
 slugid==2.0.0
 SQLAlchemy==2.0.32
 sqlalchemy-aio==0.12.0
-statsd==3.2.2
+statsd==4.0.1
 # Held at 1.2.0 to avoid needing to upgrade aiohttp
 taskcluster==1.2.0  # pyup: ignore
 # Held at 1.22 because that's what requests requires
