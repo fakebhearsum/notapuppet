@@ -4,7 +4,7 @@ WebOb==1.8.8
 poster==0.8.1
 IPy==1.1
 greenlet==0.4.13
-redis==2.10.6
+redis==5.0.8
 # fluf.lock 3.0+ requires python 3
 flufl.lock==2.4.1  # pyup: <3.0
 pexpect==4.9.0
