@@ -11,7 +11,7 @@ bzrest==1.1
 dnspython==2.6.1
 paramiko==3.4.1
 Flask==3.0.3
-Werkzeug==0.14.1
+Werkzeug==3.0.4
 itsdangerous==0.24
 docopt==0.6.2
 python-daemon==2.1.2
