@@ -23,7 +23,7 @@ redo==3.0.0
 # see bug 1467067
 requests==2.10.0  # pyup: ignore
 rsa==4.9
-sh==1.12.14
+sh==2.0.7
 signingworker==0.15
 six==1.16.0
 slugid==2.0.0
