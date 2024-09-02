@@ -23,7 +23,7 @@ requests==2.32.3
 scriptworker==60.4.0
 six==1.16.0
 slugid==2.0.0
-taskcluster==3.0.1
+taskcluster==68.0.3
 treescript==0.4  # puppet: nodownload
 urllib3==1.22
 virtualenv==16.0.0
