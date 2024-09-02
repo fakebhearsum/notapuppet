@@ -15,7 +15,7 @@ pycrypto==2.6.1
 simplejson==3.19.3
 wsgiref==0.1.2
 zope.interface==4.5.0
-incremental==17.5.0
+incremental==24.7.2
 constantly==15.1.0
 automat==0.6.0
 attrs==24.2.0
