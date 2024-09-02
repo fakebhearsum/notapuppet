@@ -27,7 +27,7 @@ extras==1.0.0
 testtools==2.7.2
 pbr==6.1.0
 ordereddict==1.1
-schema==0.6.7
+schema==0.7.7
 redo==1.6
 boto3==1.7.29
 botocore==1.10.29
