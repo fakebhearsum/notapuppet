@@ -29,5 +29,5 @@ six==1.16.0
 slugid==2.0.0
 taskcluster==68.0.3
 wsgiref==0.1.2
-vine==1.1.4
+vine==5.1.0
 urllib3==2.2.2
