@@ -33,7 +33,7 @@ testrepository==0.0.21
 python-subunit==1.4.4
 extras==1.0.0
 testtools==2.7.2
-pbr==4.0.3
+pbr==6.1.0
 schema==0.6.7
 simplejson==3.19.3
 Fabric==2.1.3
