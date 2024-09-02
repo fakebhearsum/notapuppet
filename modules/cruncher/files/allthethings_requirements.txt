@@ -6,7 +6,7 @@ MarkupSafe==1.0
 # doesn't work with our version of buildbot
 Twisted==10.1.0  # pyup: ignore
 argparse==1.4.0
-cffi==1.11.5
+cffi==1.17.0
 cryptography==43.0.0
 pyOpenSSL==18.0.0
 pyasn1==0.6.0
