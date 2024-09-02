@@ -30,5 +30,5 @@ pytz==2024.1
 redis==2.10.6
 simplejson==3.19.3
 wsgiref==0.1.2
-zope.interface==4.5.0
+zope.interface==7.0.3
 vine==5.1.0
