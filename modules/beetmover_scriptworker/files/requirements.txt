@@ -30,7 +30,7 @@ python-dateutil==2.9.0.post0
 python-gnupg==0.5.2
 redo==3.0.0
 requests==2.32.3
-s3transfer==0.1.13
+s3transfer==0.10.2
 scriptworker==60.4.0
 six==1.16.0
 slugid==2.0.0
