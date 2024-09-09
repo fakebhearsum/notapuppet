@@ -10,7 +10,7 @@ click==6.7
 idna==3.8
 jsonschema==4.23.0
 mohawk==1.1.0
-multidict==4.3.0
+multidict==6.0.5
 mysql-connector-python==8.0.11
 py==1.5.3
 pyparsing==2.2.0
