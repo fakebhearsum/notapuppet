@@ -23,5 +23,5 @@ urllib3==1.22
 chardet==5.2.0
 certifi==2024.8.30
 idna==3.8
-mohawk==0.3.4
+mohawk==1.1.0
 vine==1.1.4
