@@ -18,7 +18,7 @@ bcrypt==3.1.4
 buildbot==0.8.7p1  # pyup: ignore, puppet: nodownload
 certifi==2024.8.30
 cffi==1.11.5
-chardet==3.0.4
+chardet==5.2.0
 chunkify==1.2
 cryptography==2.2.2
 decorator==4.2.1
