@@ -4,7 +4,7 @@ greenlet==0.4.13
 pycrypto==2.6.1
 # unused, but one of the vendor libraries (Flask) requires it
 Jinja2==3.1.4
-MarkupSafe==1.0
+MarkupSafe==2.1.5
 WebOb==1.8.1
 requests==2.32.3
 bzrest==1.1
