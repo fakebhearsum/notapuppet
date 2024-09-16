@@ -38,7 +38,7 @@ python-dateutil==2.9.0.post0
 s3transfer==0.10.2
 six==1.16.0
 invoke==2.2.0
-cryptography==2.2.2
+cryptography==43.0.1
 enum==0.4.6
 pyasn1==0.6.1
 idna==3.10
