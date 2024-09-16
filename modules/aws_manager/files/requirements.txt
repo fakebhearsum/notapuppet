@@ -5,7 +5,7 @@ IPy==1.1
 MySQL-python==1.2.5
 SQLAlchemy==2.0.34
 argparse==1.4.0
-boto==2.48.0
+boto==2.49.0
 ecdsa==0.19.0
 invtool==4.4  # puppet: nodownload
 iso8601==0.1.12
