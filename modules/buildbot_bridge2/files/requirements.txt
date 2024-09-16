@@ -16,7 +16,7 @@ py==1.11.0
 pyparsing==3.1.4
 python-dateutil==2.9.0.post0
 PyYAML==6.0.2
-Represent==1.5.1
+Represent==2.1
 requests==2.32.3
 six==1.16.0
 slugid==2.0.0
