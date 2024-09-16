@@ -22,7 +22,7 @@ jsonschema==4.23.0
 mar==3.2.0
 markupsafe==2.1.5
 pyasn1==0.6.1
-pycparser==2.18
+pycparser==2.22
 python-dateutil==2.9.0.post0
 requests==2.32.3
 toml==0.9.4
