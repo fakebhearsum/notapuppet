@@ -23,7 +23,7 @@ python-dateutil==2.9.0.post0
 # for aws cloud-tools
 MySQL-python==1.2.5
 PyYAML==6.0.2
-SQLAlchemy==1.2.8
+SQLAlchemy==2.0.34
 cfn-pyplates>=0.5.0
 ecdsa==0.19.0
 invtool==4.4  # puppet: nodownload
