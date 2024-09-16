@@ -38,5 +38,5 @@ taskcluster==68.0.4
 toml==0.9.4
 towncrier==18.5.0
 urllib3==2.2.3
-virtualenv==16.0.0
+virtualenv==20.26.4
 yarl==1.2.4
