@@ -59,7 +59,7 @@ scriptworker==60.4.0
 simplegeneric==0.8.1
 slugid==2.0.0
 taskcluster==68.0.4
-traitlets==4.3.2
+traitlets==5.14.3
 uritemplate==3.0.0
 urllib3==2.2.3
 virtualenv==20.26.4
