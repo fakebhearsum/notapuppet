@@ -1,5 +1,5 @@
 # python_version: 36
-Jinja2==2.10
+Jinja2==3.1.4
 MarkupSafe==1.0
 PyYAML==6.0.2
 aiohttp==3.10.5
