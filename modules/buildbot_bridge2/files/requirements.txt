@@ -1,7 +1,7 @@
 # python_version: 36
 # Held at 1.3.5 because it's not worth upgrading before buildbot dies.
 aiohttp==1.3.5  # pyup: ignore
-appdirs==1.4.3
+appdirs==1.4.4
 arrow==1.3.0
 async-timeout==3.0.0
 certifi==2024.8.30
