@@ -41,4 +41,4 @@ taskcluster==68.0.4
 urllib3==2.2.3
 virtualenv==20.26.4
 yarl==1.11.1
-pushsnapscript==0.2.1  # puppet: nodownload
+pushsnapscript==1.0.0  # puppet: nodownload
