@@ -15,7 +15,7 @@ future==1.0.0
 idna==3.10
 idna_ssl==1.1.0
 json-e==4.7.1
-jsonschema==2.6.0
+jsonschema==4.23.0
 mohawk==0.3.4
 multidict==4.3.1
 pexpect==4.6.0
