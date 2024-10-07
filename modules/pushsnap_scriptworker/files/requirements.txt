@@ -12,7 +12,7 @@ click==6.7
 defusedxml==0.7.1
 dictdiffer==0.9.0
 frozendict==2.4.5
-idna==2.6
+idna==3.10
 idna_ssl==1.0.1
 json-e==2.5.0
 jsonschema==2.6.0
