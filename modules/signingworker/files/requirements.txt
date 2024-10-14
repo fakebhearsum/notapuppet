@@ -27,7 +27,7 @@ sh==1.12.14
 signingworker==0.15
 six==1.16.0
 slugid==2.0.0
-taskcluster==3.0.1
+taskcluster==72.1.0
 wsgiref==0.1.2
 vine==1.1.4
 urllib3==1.22
