@@ -24,7 +24,7 @@ frozendict==2.4.6
 future==1.0.0
 google-api-python-client==1.6.7
 httplib2==0.11.3
-idna==2.6
+idna==3.10
 idna_ssl==1.0.1
 ipython==6.4.0
 ipython_genutils==0.2.0
