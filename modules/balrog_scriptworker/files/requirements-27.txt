@@ -17,7 +17,7 @@ functools32==3.2.3-2
 idna==3.10
 incremental==24.7.2
 ipaddress==1.0.23
-jinja2==2.10
+jinja2==3.1.4
 jsonschema==4.23.0
 mar==2.2.3
 markupsafe==1.0
