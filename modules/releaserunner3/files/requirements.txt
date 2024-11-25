@@ -2,7 +2,7 @@
 PyYAML==6.0.2
 # don't upgrade twisted because it doesn't work with our buildbot
 Twisted==12.3.0  # pyup: ignore
-certifi==2018.4.16
+certifi==2024.8.30
 chardet==3.0.4
 idna==2.6
 json-e==2.5.0
