@@ -16,7 +16,7 @@ anyjson==0.3.3
 PyYAML==6.0.2
 jsonschema==4.23.0
 slugid==2.0.0
-statsd==3.2.2
+statsd==4.0.1
 backports.functools-lru-cache==2.0.0
 functools32==3.2.3-2
 urllib3==2.2.3
