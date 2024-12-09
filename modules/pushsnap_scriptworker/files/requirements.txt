@@ -9,7 +9,7 @@ certifi==2024.8.30
 cffi==1.11.5
 chardet==5.2.0
 click==6.7
-defusedxml==0.5.0
+defusedxml==0.7.1
 dictdiffer==0.7.1
 frozendict==1.2
 idna==2.6
