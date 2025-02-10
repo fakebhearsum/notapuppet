@@ -31,5 +31,5 @@ six==1.17.0
 slugid==2.0.0
 taskcluster==80.0.0
 urllib3==2.3.0
-virtualenv==16.0.0
+virtualenv==20.29.1
 yarl==1.2.4
