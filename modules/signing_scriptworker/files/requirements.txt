@@ -3,7 +3,7 @@ PyYAML==6.0.2
 aiohttp==3.11.16
 arrow==1.3.0
 async_timeout==5.0.1
-attrs==18.1.0
+attrs==25.3.0
 certifi==2018.4.16
 chardet==3.0.4
 datadog==0.20.0
