@@ -9,7 +9,7 @@ certifi==2025.10.5
 chardet==5.2.0
 defusedxml==0.7.1
 dictdiffer==0.9.0
-ecdsa==0.13
+ecdsa==0.19.1
 frozendict==1.2
 future==0.16.0
 idna==2.6
