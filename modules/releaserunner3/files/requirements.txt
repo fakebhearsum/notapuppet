@@ -6,7 +6,7 @@ certifi==2026.2.25
 chardet==6.0.0.post1
 idna==3.11
 json-e==4.8.2
-mohawk==0.3.4
+mohawk==1.1.0
 requests==2.18.4
 simplejson==3.15.0
 six==1.11.0
