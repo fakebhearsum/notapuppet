@@ -22,6 +22,6 @@ functools32==3.2.3-2
 urllib3==1.22
 chardet==7.2.0
 certifi==2026.2.25
-idna==2.6
+idna==3.11
 mohawk==0.3.4
 vine==1.1.4
