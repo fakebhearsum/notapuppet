@@ -14,7 +14,7 @@ chardet==7.4.3
 click==6.7
 defusedxml==0.7.1
 dictdiffer==0.10.0
-docutils==0.14
+docutils==0.23
 frozendict==2.4.7
 idna==3.18
 idna_ssl==1.1.0
