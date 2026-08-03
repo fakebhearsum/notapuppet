@@ -26,5 +26,5 @@ pycparser==3.0
 python-dateutil==2.9.0.post0
 requests==2.34.2
 toml==0.10.2
-towncrier==18.5.0
+towncrier==25.8.0
 urllib3==2.7.0
