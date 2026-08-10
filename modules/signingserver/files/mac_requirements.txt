@@ -3,7 +3,7 @@ gevent==26.7.0
 WebOb==1.8.11
 poster==0.8.1
 IPy==1.1
-greenlet==0.4.13
+greenlet==3.5.5
 redis==8.1.0
 # fluf.lock 3.0+ requires python 3
 flufl.lock==2.4.1  # pyup: <3.0
