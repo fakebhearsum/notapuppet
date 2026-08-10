@@ -6,7 +6,7 @@ aiohttp==3.14.3
 arrow==1.4.0
 async_timeout==5.0.1
 attrs==26.1.0
-beetmoverscript==7.3.0  # puppet: nodownload
+beetmoverscript==8.5.6  # puppet: nodownload
 boto3==1.43.67
 botocore==1.43.67
 certifi==2026.7.22
