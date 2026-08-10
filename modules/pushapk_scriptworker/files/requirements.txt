@@ -2,7 +2,7 @@
 # install six and setuptools before cryptography
 six==1.17.0
 PyYAML==6.0.3
-Pygments==2.2.0
+Pygments==2.20.0
 aiohttp==3.14.3
 androguard==3.2.0
 appnope==0.1.0
