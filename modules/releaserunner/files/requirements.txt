@@ -32,7 +32,7 @@ mohawk==1.1.0
 paramiko==5.0.0
 pyasn1==0.6.4
 pycrypto==2.6.1
-pynacl==1.2.1
+pynacl==1.6.2
 python-dateutil==2.9.0.post0
 python-jose==3.5.0
 redo==3.0.0
