@@ -42,7 +42,7 @@ cryptography==50.0.0
 enum==0.4.7
 pyasn1==0.6.4
 idna==3.19
-asn1crypto==0.24.0
+asn1crypto==1.5.1
 bcrypt==3.1.4
 cffi==1.11.5
 pynacl==1.2.1
