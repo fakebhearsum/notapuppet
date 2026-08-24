@@ -18,7 +18,7 @@ docutils==0.23
 frozendict==2.4.7
 idna==3.19
 idna_ssl==1.1.0
-incremental==17.5.0
+incremental==24.11.0
 jmespath==1.1.0
 json-e==4.8.4
 jsonschema==4.26.0
