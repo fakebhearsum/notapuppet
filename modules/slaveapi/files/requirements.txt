@@ -34,7 +34,7 @@ python-subunit==1.4.6
 extras==1.0.0
 testtools==2.9.1
 pbr==7.1.1
-schema==0.6.7
+schema==0.7.8
 simplejson==4.1.1
 Fabric==2.1.3
 IPy==1.1
