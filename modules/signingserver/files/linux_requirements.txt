@@ -21,6 +21,6 @@ cryptography==50.0.1
 macholib==1.9
 altgraph==0.15
 idna==3.19
-pycparser==2.18
+pycparser==3.0
 wsgiref==0.1.2
 ptyprocess==0.7.0
