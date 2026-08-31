@@ -32,7 +32,7 @@ jedi==0.20.0
 json-e==4.8.4
 jsonschema==4.26.0
 kiwisolver==1.5.1
-lxml==4.2.1
+lxml==6.1.2
 matplotlib==2.2.2
 mohawk==1.1.0
 mozapkpublisher==0.7.2
