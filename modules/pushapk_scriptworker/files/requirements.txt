@@ -16,7 +16,7 @@ cffi==2.1.1
 chardet==7.6.0
 colorama==0.4.6
 cryptography==50.0.1
-Cycler==0.10.0
+Cycler==0.12.1
 decorator==4.3.0
 defusedxml==0.7.1
 dictdiffer==0.10.0
