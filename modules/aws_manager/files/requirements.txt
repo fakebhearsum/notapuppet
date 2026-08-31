@@ -28,7 +28,7 @@ testtools==2.9.1
 pbr==7.1.2
 ordereddict==1.1
 schema==0.7.8
-redo==1.6
+redo==3.0.0
 boto3==1.7.29
 botocore==1.10.29
 docutils==0.14
