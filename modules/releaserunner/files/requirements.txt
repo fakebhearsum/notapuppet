@@ -8,7 +8,7 @@ PGPy==0.6.0
 PyHawk-with-a-single-extra-commit==0.1.5
 PyYAML==6.0.3
 SQLAlchemy==2.0.52
-Tempita==0.5.2
+Tempita==0.6.0
 # don't upgrade twisted because it doesn't work with our buildbot
 Twisted==12.3.0  # pyup: ignore
 arrow==1.4.0
