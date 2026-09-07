@@ -17,7 +17,7 @@ decorator==5.3.1
 kombu==5.6.2
 Routes==2.4.1
 SQLAlchemy==2.0.52
-Tempita==0.5.2
+Tempita==0.6.0
 # don't upgrade twisted because it doesn't work with our buildbot
 Twisted==10.1.0  # pyup: ignore
 WebError==0.13.1
