@@ -32,7 +32,7 @@ ordereddict==1.1
 testrepository==0.0.22
 python-subunit==1.4.6
 extras==1.0.0
-testtools==2.3.0
+testtools==2.9.1
 pbr==4.0.3
 schema==0.6.7
 simplejson==4.1.2
