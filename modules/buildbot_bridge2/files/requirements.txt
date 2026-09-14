@@ -6,7 +6,7 @@ arrow==1.4.0
 async-timeout==3.0.0
 certifi==2026.7.22
 chardet==7.6.0
-click==6.7
+click==8.5.0
 idna==3.19
 jsonschema==4.26.0
 mohawk==1.1.0
