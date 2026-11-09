@@ -6,7 +6,7 @@ sqlalchemy==2.1.8
 kombu==5.7.0
 redo==3.0.1
 mysql-python==1.2.5
-amqp==2.3.2
+amqp==5.4.2
 python-dateutil==4.0.0
 pytz==2018.4
 six==1.17.0
