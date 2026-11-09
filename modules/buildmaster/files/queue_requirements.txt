@@ -4,5 +4,5 @@ MozillaPulse==1.3
 amqp==5.4.2
 anyjson==0.3.3
 kombu==5.7.0
-pytz==2018.4
+pytz==2026.6
 vine==1.1.4
